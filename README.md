@@ -13,8 +13,8 @@ example input file:
 6. 123461 8
 </pre>
 
-python sort.py 
 <pre>
+python sort.py 
 Input file name: results.txt
 index column number: 2
 score column number: 3
